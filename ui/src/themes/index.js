@@ -3,6 +3,7 @@ import DarkTheme from './dark'
 import ExtraDarkTheme from './extradark'
 import GreenTheme from './green'
 import SpotifyTheme from './spotify'
+import FanTunesTheme from './fantunes'
 import LigeraTheme from './ligera'
 import MonokaiTheme from './monokai'
 import ElectricPurpleTheme from './electricPurple'
@@ -36,6 +37,7 @@ export default {
   DraculaTheme,
   ElectricPurpleTheme,
   ExtraDarkTheme,
+  FanTunesTheme,
   GreenTheme,
   GruvboxDarkTheme,
   LigeraTheme,
