@@ -126,14 +126,7 @@ const FormLogin = ({ loading, handleSubmit, validate }) => {
                 <img src={Logo} className={classes.icon} alt={'logo'} />
               </div>
               <div className={classes.systemName}>
-                <a
-                  href="https://www.navidrome.org"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={classes.systemNameLink}
-                >
-                  Navidrome
-                </a>
+                <span>FanTunes</span>
               </div>
               {config.welcomeMessage && (
                 <div
