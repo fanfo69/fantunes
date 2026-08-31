@@ -16,7 +16,7 @@ import {
   useTranslate,
   useVersion,
 } from 'react-admin'
-import Logo from '../icons/android-icon-192x192.png'
+import Logo from '../icons/fantunes-logo.png'
 
 import Notification from './Notification'
 import useCurrentTheme from '../themes/useCurrentTheme'
